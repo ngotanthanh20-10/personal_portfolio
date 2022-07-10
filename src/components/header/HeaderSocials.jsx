@@ -3,7 +3,7 @@ import { BsFacebook, BsGithub } from "react-icons/bs";
 
 const HeaderSocials = () => {
   return (
-    <div className="header_socials">
+    <div className="header__socials">
       <a href="https://facebook.com/">
         <BsFacebook />
       </a>
